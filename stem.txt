@@ -1,0 +1,6 @@
+ :-(.*)$
+ :-*(lah|kah|tah|pun)$
+ :-*(ku|mu|nya)$
+ :(is|isme|isasi|i|kan|an)$
+ :^(di|ke|se)$
+ :-*(ku|mu|nya)$
